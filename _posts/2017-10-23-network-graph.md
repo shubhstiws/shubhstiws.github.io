@@ -4,7 +4,7 @@ title: "Network graph"
 date: 2017-10-23
 ---
 
-As part of an assignment in Exploratory Data Analytics and Visualization course I created an **[interactive NETWORK GRAPH]**(https://shubhstiws.github.io/SC_network.html)
+As part of an assignment in Exploratory Data Analytics and Visualization course I created an [interactive NETWORK GRAPH](https://shubhstiws.github.io/SC_network.html)
 
 ## Situation:
 
