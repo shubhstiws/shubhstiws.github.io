@@ -4,7 +4,7 @@ title: "Shubhankar Tiwari network graph"
 date: 2017-10-23
 ---
 
-As part of an assignment in Exploratory Data Analytics and Visualization course I created an [interactive network graph] http://jekyllrb.com)
+As part of an assignment in Exploratory Data Analytics and Visualization course I created an [interactive network graph] https://shubhstiws.github.io/SC_network.html)
 
 #Situation:
 
