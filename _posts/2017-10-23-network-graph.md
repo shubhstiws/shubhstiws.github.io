@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shubhankar Tiwari network graph"
+title: "Network graph"
 date: 2017-10-23
 ---
 
