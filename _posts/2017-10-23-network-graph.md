@@ -4,15 +4,15 @@ title: "Network graph"
 date: 2017-10-23
 ---
 
-As part of an assignment in Exploratory Data Analytics and Visualization course I created an [interactive network graph] https://shubhstiws.github.io/SC_network.html)
+As part of an assignment in Exploratory Data Analytics and Visualization course I created an [interactive network graph] (https://shubhstiws.github.io/SC_network.html)
 
-# Situation:
+### Situation:
 
 Sun Country airlines, a unique player in the airline carrier industry has endured the threats of intense competition from large national brands. Started in 18983 as a charter carrier, it has expanded its business to offer scheduled flight services to various destinations. By 2014, Sun Country had survived bankruptcies, multiple economic recessions, threats of mergers and was now stable and profitable.
 
 You can access the full case [here] (https://carlsonschool.umn.edu/news/sun-country-airlines-engages-business-analytics-students-decode-data)
 
-# Intuition:
+### Intuition:
 
 The origins and destination have a huge amount of categorical variables (airport codes) and plotting them in a bar graph would be a mess. To visualize the connections between the airports I made a network diagram:
 
@@ -26,7 +26,7 @@ The origins and destination have a huge amount of categorical variables (airport
 
 5. The color denotes the country of operation, all US airports are blue color and have an inclined airplane as an icon
 
-# Interactions:
+### Interactions:
 
 1. Clicks on a particular airport reveal all the networked airports with it
 
@@ -40,7 +40,7 @@ The origins and destination have a huge amount of categorical variables (airport
 
 6. A reset button is available to zoom to the default level
 
-# Insights:
+### Insights:
 
 1. Most of the Sub Country network is concentrated in Minneapolis but it has connections all over US
 
