@@ -4,13 +4,13 @@ title: "Network graph"
 date: 2017-10-23
 ---
 
-As part of an assignment in Exploratory Data Analytics and Visualization course I created an [interactive network graph] (https://shubhstiws.github.io/SC_network.html)
+As part of an assignment in Exploratory Data Analytics and Visualization course I created an [interactive network graph](https://shubhstiws.github.io/SC_network.html)
 
 ### Situation:
 
 Sun Country airlines, a unique player in the airline carrier industry has endured the threats of intense competition from large national brands. Started in 18983 as a charter carrier, it has expanded its business to offer scheduled flight services to various destinations. By 2014, Sun Country had survived bankruptcies, multiple economic recessions, threats of mergers and was now stable and profitable.
 
-You can access the full case [here] (https://carlsonschool.umn.edu/news/sun-country-airlines-engages-business-analytics-students-decode-data)
+You can access the full case [here](https://carlsonschool.umn.edu/news/sun-country-airlines-engages-business-analytics-students-decode-data)
 
 ### Intuition:
 
