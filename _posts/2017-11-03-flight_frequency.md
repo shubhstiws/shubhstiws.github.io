@@ -4,7 +4,7 @@ title: "Flight Frequency Graph"
 date: 2017-11-03
 ---
 
-As part of an assignment in Exploratory Data Analytics and Visualization course I created an [flight FREQUENCY GRAPH](https://shubhstiws.github.io/flight_frequency.svg)
+As part of an assignment in Exploratory Data Analytics and Visualization course I created a [flight FREQUENCY GRAPH](https://shubhstiws.github.io/flight_frequency.svg)
 
 ## Situation:
 
@@ -50,7 +50,10 @@ Unfortunately this offers no interactions, I will try to make it interactive in 
 
 ## Sources:
 
-http://kateto.net/network-visualization
-https://cran.r-project.org/web/packages/visNetwork/vignettes/Introduction-to-visNetwork.html
-http://fontawesome.io/icon/plane/
-https://datastorm-open.github.io/visNetwork/layout.html
+- [Kateto](http://kateto.net/network-visualization)
+
+- [Cran](https://cran.r-project.org/web/packages/visNetwork/vignettes/Introduction-to-visNetwork.html)
+
+- [FontAwesome](http://fontawesome.io/icon/plane/)
+
+- [DataStorm](https://datastorm-open.github.io/visNetwork/layout.html)
